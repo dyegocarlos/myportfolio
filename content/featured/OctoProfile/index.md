@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Genomika Products'
+title: 'Genomika Website'
 cover: './genomika.png'
 github: ''
 external: 'https://genomika.com.br'
@@ -16,4 +16,6 @@ tech:
 showInProjects: true
 ---
 
-Genomika is a genetic laboratory. I worked for Genomika between 2014 and 2020. When I arrived there, the website was dark and without a ecommerce integrated, there is no mobile app or content management system. While I was there, I designed and developed all the front-end of all the products of the lab including the responsive website, websystems and mobile apps. In the main website, you can navigate and access all of other products and projects that I projected and coded the front-end there. My activities was since ux research until front-end development. So, I interviewed user, prototyped wireframes and layouts, and developed front-end, sometimes with only HTML5, CSS3 and JS, sometimes with jQuery, React Native, Bootstrap and others technologies, depending on the needs.
+When I arrive in the company, the website was dark and doesn't have a integrated ecommerce. The Website has a responsive version with many landing pages for main exams, like covid tests, breast cancer and others. Now is possible the user buy a genetic test by the ecommerce integrated into the website. 
+
+I interviewed employees, doctors and give some users informations from Hotjar. Benchmarks and competitor analysis was done frequently. I prototyped all screens at Adobe XD. I comunicated the user and company needs to the programmer and managed the activities in Scrum Sprints of a week. For the front-end, I worked with HTML5, CSS3 and jQuery in Django templates.

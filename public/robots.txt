@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://brittanychiang.com/sitemap.xml
-Host: https://brittanychiang.com
+Sitemap: http://www.dyegocarlos.com/sitemap.xml
+Host: www.dyegocarlos.com

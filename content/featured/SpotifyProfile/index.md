@@ -1,9 +1,9 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Genomika Doctor App'
+cover: './portalmedico.png'
+github: ''
+external: 'https://genomika.com.br/portal-genomika/'
 tech:
   - React
   - Node.js
@@ -12,4 +12,6 @@ tech:
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+This project aimed provide a comunication tool between company and doctors. The mobile app was developed in React Native with Styled Components and was projected from zero. By the mobile app the doctor can: see news from his area; see results or which process step a exam is in; contact scientific assessory, sell and administrative teams.
+
+I implemented the Design Sprint as a fast method of double diamond process of design thinking. I interviewed doctors, biomedicals and managers to understand the process of communication. Then I elicitate requirements and priorize them. After that I prototyped in AdobeXD and validate with stakeholders. Finally, I coded the front-end in React Native and presented to stakeholders again.

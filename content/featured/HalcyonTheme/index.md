@@ -1,9 +1,9 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Town Council Websites'
+cover: './genes4you.png'
+github: ''
+external: 'https://genomika.com.br/portal-genomika/'
 tech:
   - VS Code
   - Sublime Text

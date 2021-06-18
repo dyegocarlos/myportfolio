@@ -1,12 +1,13 @@
 ---
-date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
+date: '2012-04-01'
+title: 'Designer Analyst and Front-End Developer'
+company: 'Pingmind'
+location: 'Recife, PE'
+range: '2012 - 2013'
 url: 'https://web.northeastern.edu/scout/'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Pingmind was a general MOOC platform for recorded courses. 
+- Initially I was called to make a review in the interface analysing the differences between the implemented front-end and the UI design.
+- In a second moment, I implemented the front-end in HTML5 and CSS3.
+- Heuristic Evaluation, Ergonomics Criteria, HTML5, CSS3, JS
