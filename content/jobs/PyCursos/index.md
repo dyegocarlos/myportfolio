@@ -4,7 +4,7 @@ title: 'Designer and Front-End Developer'
 company: 'PyCursos'
 location: 'Recife, PE'
 range: '2013 - 2014'
-url: 'https://web.northeastern.edu/scout/'
+url: ''
 ---
 
 - PyCursos was a specific MOOC platform for recorded Python courses, but it also had live events and courses. I designed the entire platform in fireworks and implemented the front-end in pure HTML5 and CSS3. One of this courses was <a style="text-decoration:underline" href="https://www.pycursos.com/python-para-zumbis/">Python for Zombies</a>, which was one of the python course with biggest quantity of students of Brazil.

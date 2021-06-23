@@ -4,7 +4,7 @@ title: 'Full Stack Designer Consultant'
 company: 'Genomika Labs'
 location: 'Recife, PE'
 range: 'Mar 2014 - Dec 2020'
-url: 'https://www.genomika.com.br/'
+url: ''
 ---
 
 - My activities was since ux research until front-end development of all products of the lab, including the responsive website, websystems and mobile apps.

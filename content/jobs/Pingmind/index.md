@@ -4,7 +4,7 @@ title: 'Designer Analyst and Front-End Developer'
 company: 'Pingmind'
 location: 'Recife, PE'
 range: '2012 - 2013'
-url: 'https://web.northeastern.edu/scout/'
+url: ''
 ---
 
 - Pingmind was a general MOOC platform for recorded courses.
