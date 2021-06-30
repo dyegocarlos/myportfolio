@@ -1,7 +1,7 @@
 ---
 date: '2021-12-21'
 title: 'Full Stack Designer'
-company: 'Frelancer'
+company: 'Freelancer'
 location: 'Recife, PE'
 range: '2012 - 2021'
 url: ''
