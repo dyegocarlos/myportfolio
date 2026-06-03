@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Dyego Morais',
     description:
-      'Dyego Morais is a full stack designer who specializes in designing and building exceptional digital experiences.',
+      'Dyego Morais is a senior product designer who specializes in designing and building exceptional digital experiences.',
     siteUrl: 'http://www.dyegocarlos.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     // twitterUsername: '@bchiang7',

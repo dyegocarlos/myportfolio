@@ -70,8 +70,8 @@ const Hero = () => {
   const three = <h3 className="big-heading">I'm a web artisan.</h3>;
   const four = (
     <p>
-      I'm a Recife-based full stack designer who specializes in design and front-end development
-      exceptional digital experiences. Moreover, I'm a PhD researcher focused on child participation
+      I'm a Recife-based senior full stack product designer who specializes in design - with front-end development abilities -
+      to develop exceptional digital experiences. Moreover, I'm a PhD researcher focused on user participation
       in participatory design of digital artifacts.
     </p>
   );
