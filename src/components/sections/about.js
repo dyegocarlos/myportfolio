@@ -126,14 +126,20 @@ const About = () => {
   }, []);
 
   const skills = [
+    'Product Discovery',
+    'UX Research',
+    'UX Metrics',
+    'User Testing',
+    'Figma',
+    'FigJam and Miro',
+    'Adobe XD',
     'HTML5',
     'CSS3',
     'Javascript',
-    'React',
-    'jQuery',
     'TailwindCSS',
-    'Adobe XD',
-    'Pencil, Pen, Paper, Pilot and Whiteboard',
+    'Amplitude',
+    'VWO',
+    'Pencil, Pen, Paper, Post-its, Pilot and Whiteboard',
   ];
 
   return (
@@ -153,9 +159,8 @@ const About = () => {
             <p>
               Fast-forward to today, and I've had the privilege of working at my own start-up (Umbú)
               and others (Redu, PyCursos and Pingmind),{' '}
-              <a href="https://genomika.com.br/">
-                a huge company (Albert Einstein - Genomika Genetic Lab)
-              </a>
+              two huge companies (ClickBus and Albert Einstein - Genomika Genetic Lab)
+              
               , and <a href="https://www.demults.com.br/">a research group (DEMULTS)</a>. My main
               focus these days is building digital experiences for a variety of clients.
             </p>

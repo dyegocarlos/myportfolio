@@ -7,4 +7,4 @@ range: '2012 - 2021'
 url: ''
 ---
 
-- Requirements elicitation, UX/UI Design and Front-End of digital artifacts for clients from different segments, including educational platform startups (pingmind, pycursos, captain, amadeus and redu), accessibility assessment app (clappin), text to speech convert tool (soar), websites for restaurants, law firms and W3C (while working at ThoughtWorks).
+- Requirement elicitation, UX/UI Design and Front-End of digital artifacts for clients from different segments, including educational platform startups (pingmind, pycursos, captain, amadeus and redu), accessibility assessment app (clappin), text to speech convert tool (soar), websites for restaurants, law companies and W3C (while working at ThoughtWorks).
