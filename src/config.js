@@ -16,7 +16,7 @@ module.exports = {
     // },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/dyego-carlos-567a4271/',
+      url: 'https://www.linkedin.com/in/dyego-morais-phd-567a4271/',
     },
     // {
     //   name: 'Codepen',
