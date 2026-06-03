@@ -10,6 +10,9 @@
   "keywords": [
     "gatsby"
   ],
+  "engines": {
+    "node": "18.x"
+  },
   "license": "MIT",
   "browserslist": "> 0.25%, not dead",
   "scripts": {
@@ -20,6 +23,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "prepare": "husky install",
+    "postinstall": "husky install || true",
     "lint-staged": "lint-staged"
   },
   "lint-staged": {
