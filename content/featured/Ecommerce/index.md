@@ -3,7 +3,7 @@ date: '2021-01-12'
 title: 'eCommerce Genomika'
 cover: './ecommerce.png'
 github: ''
-external: 'https://loja.genomika.com.br/'
+external: 'https://loja-genomika.einstein.br/'
 tech:
   - UX Research
   - Prototyping
@@ -21,4 +21,4 @@ When the covid19 pandemic starts, we adjusted this systems for all clients can p
 
 <!-- Another adaptation from partner websystem was a negotiation module which the a partner, like a health plan representant could negotiate sales with the sales team of Genomika. For this system I create with the back-end developer a state machine to manage the process of negotiation. -->
 
-Finally, [rare genomes](http://genomasraros.com/) was a joint initiative of the Ministry of Health and the Albert Einstein Hospital through PROADI-SUS for the complete genome sequencing of individuals with rare diseases or hereditary cancer. For this system, we changed the colors and some specific informations from the ecommerce system. Before starts this project, I leader a team from Cesar Summer Jobs for build a module for the doctor fill the clinic data of the patient.
+Finally, [rare genomes](https://genomasraros.einstein.br/login/?next=/) was a joint initiative of the Ministry of Health and the Albert Einstein Hospital through PROADI-SUS for the complete genome sequencing of individuals with rare diseases or hereditary cancer. For this system, we changed the colors and some specific informations from the ecommerce system. Before starts this project, I leader a team from Cesar Summer Jobs for build a module for the doctor fill the clinic data of the patient.

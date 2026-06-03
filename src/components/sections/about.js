@@ -159,7 +159,7 @@ const About = () => {
             <p>
               Fast-forward to today, and I've had the privilege of working at my own start-up (Umbú)
               and others (Redu, PyCursos and Pingmind),{' '}
-              two huge companies (ClickBus and Albert Einstein - Genomika Genetic Lab)
+              two huge companies (<a href="https://www.clickbus.com.br/">ClickBus</a> and Albert Einstein - Genomika Genetic Lab)
               
               , and <a href="https://www.demults.com.br/">a research group (DEMULTS)</a>. My main
               focus these days is building digital experiences for a variety of clients.
