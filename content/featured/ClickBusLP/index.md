@@ -3,7 +3,7 @@ date: '5'
 title: 'ClickBus LP Promo'
 cover: './lp.png'
 github: ''
-external: 'https://drive.google.com/file/d/1dqWKXRBL1DCs9J4ze5-6ss9qwf5c2B6g/view?usp=sharing'
+external: 'https://drive.google.com/file/d/1YwyQreqm-2pmVNAjca12pFCgu2wFwR1x/view?usp=sharing'
 tech:
   - Prototyping
   - UX Research
